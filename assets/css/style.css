@@ -6184,14 +6184,14 @@ ol.wp-block-rss {
  position:absolute;
  top:0;
  left:0;
- background-color:#121212;
+ background-color:#fff;
  -webkit-clip-path:polygon(0 0, 100% 0%, calc(100% - 50px) 100%, 0% 100%);
  clip-path:polygon(0 0, 100% 0%, calc(100% - 50px) 100%, 0% 100%);
  z-index:-1
 }
 .header-layout6 .menu-area {
  position:relative;
- background-color:#121212;
+ background-color:#fff;
  background-size:auto;
  background-repeat:repeat;
  z-index:2
@@ -6200,7 +6200,7 @@ ol.wp-block-rss {
  margin:0 18px
 }
 .header-layout6 .main-menu>ul>li>a {
- color:var(--white-color);
+ color:#000;
  padding:41.5px 0
 }
 .header-layout6 .th-menu-toggle {
